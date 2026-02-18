@@ -3,11 +3,51 @@
     "features": [
         {
             "type": "Feature",
+            "id": "way/157532089",
+            "properties": {
+                "timestamp": "2023-11-28T12:50:01Z",
+                "version": "3",
+                "changeset": "144547902",
+                "user": "StopConsuming_StartProducing",
+                "uid": "5592573",
+                "natural": "scrub",
+                "id": "way/157532089"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2206402,
+                            13.7682871
+                        ],
+                        [
+                            109.2206398,
+                            13.7681335
+                        ],
+                        [
+                            109.2211136,
+                            13.7681315
+                        ],
+                        [
+                            109.221114,
+                            13.7682851
+                        ],
+                        [
+                            109.2206402,
+                            13.7682871
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "id": "way/1479927266",
             "properties": {
-                "timestamp": "2026-02-17T23:17:39Z",
-                "version": "1",
-                "changeset": "178702021",
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -38,12 +78,16 @@
                             13.7682045
                         ],
                         [
-                            109.22015,
-                            13.7681602
+                            109.2201513,
+                            13.7681589
                         ],
                         [
-                            109.2201808,
-                            13.7682266
+                            109.2201708,
+                            13.7681923
+                        ],
+                        [
+                            109.2201916,
+                            13.7682245
                         ],
                         [
                             109.2201902,
@@ -61,9 +105,9 @@
             "type": "Feature",
             "id": "way/1479927267",
             "properties": {
-                "timestamp": "2026-02-17T23:17:39Z",
-                "version": "1",
-                "changeset": "178702021",
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -83,24 +127,24 @@
                 "coordinates": [
                     [
                         [
-                            109.2201996,
-                            13.7683347
+                            109.2201902,
+                            13.7683334
                         ],
                         [
-                            109.2201943,
-                            13.768218
+                            109.2201916,
+                            13.7682245
                         ],
                         [
-                            109.2202472,
-                            13.7682169
+                            109.2202633,
+                            13.7682265
                         ],
                         [
-                            109.2202506,
-                            13.7683321
+                            109.2202583,
+                            13.7683338
                         ],
                         [
-                            109.2201996,
-                            13.7683347
+                            109.2201902,
+                            13.7683334
                         ]
                     ]
                 ]
@@ -110,9 +154,9 @@
             "type": "Feature",
             "id": "way/1479927268",
             "properties": {
-                "timestamp": "2026-02-17T23:17:39Z",
-                "version": "1",
-                "changeset": "178702021",
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -160,9 +204,9 @@
             "type": "Feature",
             "id": "way/1479927269",
             "properties": {
-                "timestamp": "2026-02-18T06:32:10Z",
-                "version": "2",
-                "changeset": "178709897",
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "3",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -181,24 +225,28 @@
                 "coordinates": [
                     [
                         [
-                            109.2203668,
-                            13.7684831
+                            109.2203577,
+                            13.7684969
                         ],
                         [
-                            109.2203691,
-                            13.768409
+                            109.2203598,
+                            13.7684084
                         ],
                         [
-                            109.2204456,
-                            13.7684104
+                            109.2204063,
+                            13.7684111
                         ],
                         [
-                            109.2204414,
-                            13.7684852
+                            109.2204467,
+                            13.7684331
                         ],
                         [
-                            109.2203668,
-                            13.7684831
+                            109.2204432,
+                            13.7685006
+                        ],
+                        [
+                            109.2203577,
+                            13.7684969
                         ]
                     ]
                 ]
@@ -208,9 +256,9 @@
             "type": "Feature",
             "id": "way/1479927270",
             "properties": {
-                "timestamp": "2026-02-17T23:17:39Z",
-                "version": "1",
-                "changeset": "178702021",
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -234,16 +282,20 @@
                             13.7685651
                         ],
                         [
-                            109.2203435,
-                            13.7685
+                            109.2203476,
+                            13.7684972
                         ],
                         [
-                            109.2204485,
-                            13.7685004
+                            109.2203577,
+                            13.7684969
                         ],
                         [
-                            109.2204485,
-                            13.7685651
+                            109.2204432,
+                            13.7685006
+                        ],
+                        [
+                            109.2204409,
+                            13.7685656
                         ],
                         [
                             109.2203439,
@@ -255,11 +307,60 @@
         },
         {
             "type": "Feature",
-            "id": "way/1479927272",
+            "id": "way/1479927271",
             "properties": {
                 "timestamp": "2026-02-17T23:17:39Z",
                 "version": "1",
                 "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "160",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Diên Hồng",
+                "addr:subdistrict": "Ngô Mây",
+                "building": "house",
+                "building:levels": "2",
+                "name": "160",
+                "id": "way/1479927271"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2203399,
+                            13.7686485
+                        ],
+                        [
+                            109.2203419,
+                            13.7685742
+                        ],
+                        [
+                            109.2204414,
+                            13.7685768
+                        ],
+                        [
+                            109.2204394,
+                            13.7686488
+                        ],
+                        [
+                            109.2203399,
+                            13.7686485
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927272",
+            "properties": {
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -279,24 +380,24 @@
                 "coordinates": [
                     [
                         [
-                            109.2202633,
-                            13.7682617
+                            109.2202627,
+                            13.7682689
                         ],
                         [
                             109.2202633,
                             13.7682265
                         ],
                         [
-                            109.2204208,
+                            109.2204278,
                             13.7682325
                         ],
                         [
-                            109.2204225,
-                            13.768266
+                            109.2204263,
+                            13.7682777
                         ],
                         [
-                            109.2202633,
-                            13.7682617
+                            109.2202627,
+                            13.7682689
                         ]
                     ]
                 ]
@@ -306,9 +407,9 @@
             "type": "Feature",
             "id": "way/1479927273",
             "properties": {
-                "timestamp": "2026-02-17T23:17:39Z",
-                "version": "1",
-                "changeset": "178702021",
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -321,6 +422,7 @@
                 "building": "house",
                 "building:levels": "2",
                 "house": "170",
+                "layer": "1",
                 "id": "way/1479927273"
             },
             "geometry": {
@@ -328,24 +430,84 @@
                 "coordinates": [
                     [
                         [
-                            109.2202644,
-                            13.7682206
+                            109.2202633,
+                            13.7682265
                         ],
                         [
                             109.2202644,
                             13.7681939
                         ],
                         [
-                            109.2203996,
-                            13.7681989
+                            109.2204288,
+                            13.7682012
                         ],
                         [
-                            109.2203996,
-                            13.7682255
+                            109.2204278,
+                            13.7682325
                         ],
                         [
-                            109.2202644,
-                            13.7682206
+                            109.2202633,
+                            13.7682265
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927274",
+            "properties": {
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "172",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Diên Hồng",
+                "addr:subdistrict": "Ngô Mây",
+                "amenity": "cafe",
+                "branch": "Legend Caffe",
+                "brand": "Trung Nguyên",
+                "brand:wikidata": "Q3541154",
+                "building": "yes",
+                "cuisine": "coffee_shop;vietnamese",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Trung Nguyên Coffee",
+                "name:en": "Trung Nguyên Coffee",
+                "name:vi": "Cà phê Trung Nguyên",
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "phone": "+84905555123",
+                "takeaway": "yes",
+                "id": "way/1479927274"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2201708,
+                            13.7681923
+                        ],
+                        [
+                            109.2201708,
+                            13.7681009
+                        ],
+                        [
+                            109.2204321,
+                            13.7681048
+                        ],
+                        [
+                            109.2204288,
+                            13.7682012
+                        ],
+                        [
+                            109.2201708,
+                            13.7681923
                         ]
                     ]
                 ]
@@ -355,9 +517,9 @@
             "type": "Feature",
             "id": "way/1479927275",
             "properties": {
-                "timestamp": "2026-02-17T23:17:39Z",
-                "version": "1",
-                "changeset": "178702021",
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -378,8 +540,8 @@
                 "coordinates": [
                     [
                         [
-                            109.2203268,
-                            13.768483
+                            109.2203245,
+                            13.7684966
                         ],
                         [
                             109.2203271,
@@ -390,12 +552,16 @@
                             13.7684084
                         ],
                         [
-                            109.2203581,
-                            13.7684847
+                            109.2203577,
+                            13.7684969
                         ],
                         [
-                            109.2203268,
-                            13.768483
+                            109.2203476,
+                            13.7684972
+                        ],
+                        [
+                            109.2203245,
+                            13.7684966
                         ]
                     ]
                 ]
@@ -405,9 +571,9 @@
             "type": "Feature",
             "id": "way/1479927276",
             "properties": {
-                "timestamp": "2026-02-17T23:17:39Z",
-                "version": "1",
-                "changeset": "178702021",
+                "timestamp": "2026-02-18T07:20:53Z",
+                "version": "2",
+                "changeset": "178711437",
                 "user": "KhanhxHoang",
                 "uid": "23838791",
                 "addr:city": "Quy Nhơn",
@@ -427,24 +593,24 @@
                 "coordinates": [
                     [
                         [
-                            109.2202844,
-                            13.7684824
+                            109.2202832,
+                            13.7684949
                         ],
                         [
                             109.2202862,
                             13.7684069
                         ],
                         [
-                            109.2203212,
-                            13.7684082
+                            109.2203271,
+                            13.7684081
                         ],
                         [
-                            109.2203191,
-                            13.7684837
+                            109.2203245,
+                            13.7684966
                         ],
                         [
-                            109.2202844,
-                            13.7684824
+                            109.2202832,
+                            13.7684949
                         ]
                     ]
                 ]
@@ -630,6 +796,41 @@
                     [
                         109.2179032,
                         13.7698372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/799583515",
+            "properties": {
+                "timestamp": "2020-09-14T06:25:08Z",
+                "version": "5",
+                "changeset": "90844847",
+                "user": "Hanif IRM-RV",
+                "uid": "8072058",
+                "highway": "residential",
+                "source": "digitalglobe",
+                "id": "way/799583515"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2197952,
+                        13.7686217
+                    ],
+                    [
+                        109.2199078,
+                        13.7689318
+                    ],
+                    [
+                        109.2200017,
+                        13.7692587
+                    ],
+                    [
+                        109.2205662,
+                        13.7692357
                     ]
                 ]
             }
@@ -918,6 +1119,45 @@
                 "coordinates": [
                     109.2201284,
                     13.7682885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13575063123",
+            "properties": {
+                "timestamp": "2026-02-18T06:32:10Z",
+                "version": "1",
+                "changeset": "178709897",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "172",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Diên Hồng",
+                "addr:subdistrict": "Ngô Mây",
+                "amenity": "cafe",
+                "branch": "Legend Cafe",
+                "brand": "Trung Nguyên",
+                "brand:wikidata": "Q3541154",
+                "cuisine": "coffee_shop;vietnamese",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "name": "Trung Nguyên Coffee",
+                "name:en": "Trung Nguyên Coffee",
+                "name:vi": "Cà phê Trung Nguyên",
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "outdoor_seating": "no",
+                "takeaway": "yes",
+                "id": "node/13575063123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.2203113,
+                    13.7681424
                 ]
             }
         },

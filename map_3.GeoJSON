@@ -1,0 +1,955 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/1479927266",
+            "properties": {
+                "timestamp": "2026-02-17T23:17:39Z",
+                "version": "1",
+                "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "3",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Trần Thị Kỷ",
+                "addr:subdistrict": "Ngô Mây",
+                "amenity": "restaurant",
+                "building": "yes",
+                "diet:vegan": "yes",
+                "name": "Cơm Chay Hiển Nam",
+                "opening_hours": "Mo-Su 06:00-19:30",
+                "phone": "+842562211148",
+                "id": "way/1479927266"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2201004,
+                            13.7683543
+                        ],
+                        [
+                            109.220028,
+                            13.7682045
+                        ],
+                        [
+                            109.22015,
+                            13.7681602
+                        ],
+                        [
+                            109.2201808,
+                            13.7682266
+                        ],
+                        [
+                            109.2201902,
+                            13.7683334
+                        ],
+                        [
+                            109.2201004,
+                            13.7683543
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927267",
+            "properties": {
+                "timestamp": "2026-02-17T23:17:39Z",
+                "version": "1",
+                "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "01",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Trần Thị Kỷ",
+                "addr:subdistrict": "Ngô Mây",
+                "building": "house",
+                "building:levels": "2",
+                "name": "01",
+                "id": "way/1479927267"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2201996,
+                            13.7683347
+                        ],
+                        [
+                            109.2201943,
+                            13.768218
+                        ],
+                        [
+                            109.2202472,
+                            13.7682169
+                        ],
+                        [
+                            109.2202506,
+                            13.7683321
+                        ],
+                        [
+                            109.2201996,
+                            13.7683347
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927268",
+            "properties": {
+                "timestamp": "2026-02-17T23:17:39Z",
+                "version": "1",
+                "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "166",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Diên Hồng",
+                "addr:subdistrict": "Ngô Mây",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "pizza;steak_house",
+                "name": "Ăn ngon? Đến à nha",
+                "id": "way/1479927268"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2204229,
+                            13.7683406
+                        ],
+                        [
+                            109.2202583,
+                            13.7683338
+                        ],
+                        [
+                            109.2202627,
+                            13.7682689
+                        ],
+                        [
+                            109.2204263,
+                            13.7682777
+                        ],
+                        [
+                            109.2204229,
+                            13.7683406
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927269",
+            "properties": {
+                "timestamp": "2026-02-18T06:32:10Z",
+                "version": "2",
+                "changeset": "178709897",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "164",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Diên Hồng",
+                "addr:subdistrict": "Ngô Mây",
+                "building": "house",
+                "building:levels": "4",
+                "id": "way/1479927269"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2203668,
+                            13.7684831
+                        ],
+                        [
+                            109.2203691,
+                            13.768409
+                        ],
+                        [
+                            109.2204456,
+                            13.7684104
+                        ],
+                        [
+                            109.2204414,
+                            13.7684852
+                        ],
+                        [
+                            109.2203668,
+                            13.7684831
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927270",
+            "properties": {
+                "timestamp": "2026-02-17T23:17:39Z",
+                "version": "1",
+                "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "162",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Diên Hồng",
+                "addr:subdistrict": "Ngô Mây",
+                "building": "yes",
+                "name": "Công ty TNHH đầu tư bất động sản",
+                "office": "company",
+                "id": "way/1479927270"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2203439,
+                            13.7685651
+                        ],
+                        [
+                            109.2203435,
+                            13.7685
+                        ],
+                        [
+                            109.2204485,
+                            13.7685004
+                        ],
+                        [
+                            109.2204485,
+                            13.7685651
+                        ],
+                        [
+                            109.2203439,
+                            13.7685651
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927272",
+            "properties": {
+                "timestamp": "2026-02-17T23:17:39Z",
+                "version": "1",
+                "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "168",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Trần Thị Kỷ",
+                "addr:subdistrict": "Ngô Mây",
+                "amenity": "cafe",
+                "building": "yes",
+                "name": "Trà Tháng 4",
+                "id": "way/1479927272"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2202633,
+                            13.7682617
+                        ],
+                        [
+                            109.2202633,
+                            13.7682265
+                        ],
+                        [
+                            109.2204208,
+                            13.7682325
+                        ],
+                        [
+                            109.2204225,
+                            13.768266
+                        ],
+                        [
+                            109.2202633,
+                            13.7682617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927273",
+            "properties": {
+                "timestamp": "2026-02-17T23:17:39Z",
+                "version": "1",
+                "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "170",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Diên Hồng",
+                "addr:subdistrict": "Ngô Mây",
+                "building": "house",
+                "building:levels": "2",
+                "house": "170",
+                "id": "way/1479927273"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2202644,
+                            13.7682206
+                        ],
+                        [
+                            109.2202644,
+                            13.7681939
+                        ],
+                        [
+                            109.2203996,
+                            13.7681989
+                        ],
+                        [
+                            109.2203996,
+                            13.7682255
+                        ],
+                        [
+                            109.2202644,
+                            13.7682206
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927275",
+            "properties": {
+                "timestamp": "2026-02-17T23:17:39Z",
+                "version": "1",
+                "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "02B",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Trần Thị Kỷ",
+                "addr:subdistrict": "Ngô Mây",
+                "building": "yes",
+                "name": "02B",
+                "opening_hours": "sunrise-sunset",
+                "shop": "electrical",
+                "id": "way/1479927275"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2203268,
+                            13.768483
+                        ],
+                        [
+                            109.2203271,
+                            13.7684081
+                        ],
+                        [
+                            109.2203598,
+                            13.7684084
+                        ],
+                        [
+                            109.2203581,
+                            13.7684847
+                        ],
+                        [
+                            109.2203268,
+                            13.768483
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1479927276",
+            "properties": {
+                "timestamp": "2026-02-17T23:17:39Z",
+                "version": "1",
+                "changeset": "178702021",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "02A",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Trần Thị Kỷ",
+                "addr:subdistrict": "Ngô Mây",
+                "building": "yes",
+                "building:levels": "3",
+                "name": "02A",
+                "id": "way/1479927276"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.2202844,
+                            13.7684824
+                        ],
+                        [
+                            109.2202862,
+                            13.7684069
+                        ],
+                        [
+                            109.2203212,
+                            13.7684082
+                        ],
+                        [
+                            109.2203191,
+                            13.7684837
+                        ],
+                        [
+                            109.2202844,
+                            13.7684824
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/139826111",
+            "properties": {
+                "timestamp": "2025-07-11T09:44:04Z",
+                "version": "17",
+                "changeset": "168786517",
+                "user": "GrabVN_QTrung",
+                "uid": "22922997",
+                "highway": "tertiary",
+                "name": "Diên Hồng",
+                "id": "way/139826111"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2204842,
+                        13.7718986
+                    ],
+                    [
+                        109.2204745,
+                        13.7711856
+                    ],
+                    [
+                        109.2205353,
+                        13.7705203
+                    ],
+                    [
+                        109.2205475,
+                        13.7703864
+                    ],
+                    [
+                        109.2205606,
+                        13.7696287
+                    ],
+                    [
+                        109.2205662,
+                        13.7692357
+                    ],
+                    [
+                        109.2205699,
+                        13.7690112
+                    ],
+                    [
+                        109.220573,
+                        13.7686986
+                    ],
+                    [
+                        109.2205714,
+                        13.768362
+                    ],
+                    [
+                        109.2205546,
+                        13.7679287
+                    ],
+                    [
+                        109.2204567,
+                        13.7676884
+                    ],
+                    [
+                        109.2203514,
+                        13.7675039
+                    ],
+                    [
+                        109.2202133,
+                        13.7673071
+                    ],
+                    [
+                        109.2200986,
+                        13.767158
+                    ],
+                    [
+                        109.2200702,
+                        13.7656645
+                    ],
+                    [
+                        109.2200757,
+                        13.7651141
+                    ],
+                    [
+                        109.2200754,
+                        13.765054
+                    ],
+                    [
+                        109.2200714,
+                        13.7642488
+                    ],
+                    [
+                        109.2201639,
+                        13.7637687
+                    ],
+                    [
+                        109.2202989,
+                        13.7634097
+                    ],
+                    [
+                        109.2204375,
+                        13.7630861
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/741855144",
+            "properties": {
+                "timestamp": "2025-11-11T08:19:12Z",
+                "version": "12",
+                "changeset": "174498348",
+                "user": "GrabVN_Dang",
+                "uid": "21825913",
+                "highway": "tertiary",
+                "maxspeed": "40",
+                "name": "Trần Thị Kỷ",
+                "surface": "asphalt",
+                "id": "way/741855144"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2222801,
+                        13.7684056
+                    ],
+                    [
+                        109.2217586,
+                        13.7684157
+                    ],
+                    [
+                        109.2212399,
+                        13.7684193
+                    ],
+                    [
+                        109.2205714,
+                        13.768362
+                    ],
+                    [
+                        109.2200921,
+                        13.768397
+                    ],
+                    [
+                        109.2200429,
+                        13.7684244
+                    ],
+                    [
+                        109.2200086,
+                        13.7684604
+                    ],
+                    [
+                        109.2197952,
+                        13.7686217
+                    ],
+                    [
+                        109.219717,
+                        13.7686874
+                    ],
+                    [
+                        109.21966,
+                        13.7687353
+                    ],
+                    [
+                        109.219173,
+                        13.7690793
+                    ],
+                    [
+                        109.2191289,
+                        13.7691026
+                    ],
+                    [
+                        109.2184995,
+                        13.7694903
+                    ],
+                    [
+                        109.2182414,
+                        13.7696404
+                    ],
+                    [
+                        109.2179032,
+                        13.7698372
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/826815846",
+            "properties": {
+                "timestamp": "2020-07-16T04:12:05Z",
+                "version": "1",
+                "changeset": "88059084",
+                "user": "dee_ksha",
+                "uid": "9035956",
+                "highway": "service",
+                "id": "way/826815846"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2199065,
+                        13.7681398
+                    ],
+                    [
+                        109.2200921,
+                        13.768397
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1251956663",
+            "properties": {
+                "timestamp": "2024-02-18T10:07:58Z",
+                "version": "1",
+                "changeset": "147601623",
+                "user": "Tommybara",
+                "uid": "12198525",
+                "boundary": "administrative",
+                "id": "way/1251956663"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        109.2193637,
+                        13.7722601
+                    ],
+                    [
+                        109.2194237,
+                        13.7722155
+                    ],
+                    [
+                        109.2198206,
+                        13.7719973
+                    ],
+                    [
+                        109.2198683,
+                        13.7719729
+                    ],
+                    [
+                        109.2199181,
+                        13.7719529
+                    ],
+                    [
+                        109.2199695,
+                        13.7719374
+                    ],
+                    [
+                        109.2200257,
+                        13.771926
+                    ],
+                    [
+                        109.2200828,
+                        13.7719201
+                    ],
+                    [
+                        109.2201402,
+                        13.7719197
+                    ],
+                    [
+                        109.2204775,
+                        13.7719237
+                    ],
+                    [
+                        109.2204694,
+                        13.7712334
+                    ],
+                    [
+                        109.2204704,
+                        13.7711389
+                    ],
+                    [
+                        109.2204778,
+                        13.7710185
+                    ],
+                    [
+                        109.2205281,
+                        13.77056
+                    ],
+                    [
+                        109.2205396,
+                        13.7704167
+                    ],
+                    [
+                        109.2205457,
+                        13.7703051
+                    ],
+                    [
+                        109.2205542,
+                        13.768399
+                    ],
+                    [
+                        109.2204228,
+                        13.7679184
+                    ],
+                    [
+                        109.2203417,
+                        13.7674221
+                    ],
+                    [
+                        109.2196919,
+                        13.7667135
+                    ],
+                    [
+                        109.2196582,
+                        13.766664
+                    ],
+                    [
+                        109.2196289,
+                        13.7666119
+                    ],
+                    [
+                        109.2195981,
+                        13.7665417
+                    ],
+                    [
+                        109.2195755,
+                        13.7664687
+                    ],
+                    [
+                        109.2195611,
+                        13.7663937
+                    ],
+                    [
+                        109.219547,
+                        13.7663181
+                    ],
+                    [
+                        109.2195383,
+                        13.7662418
+                    ],
+                    [
+                        109.219535,
+                        13.7661651
+                    ],
+                    [
+                        109.2195367,
+                        13.7660953
+                    ],
+                    [
+                        109.219543,
+                        13.7660257
+                    ],
+                    [
+                        109.2195538,
+                        13.7659567
+                    ],
+                    [
+                        109.2195688,
+                        13.7659209
+                    ],
+                    [
+                        109.2195876,
+                        13.7658869
+                    ],
+                    [
+                        109.2196101,
+                        13.7658551
+                    ],
+                    [
+                        109.2196384,
+                        13.7658233
+                    ],
+                    [
+                        109.2196703,
+                        13.765795
+                    ],
+                    [
+                        109.2197053,
+                        13.7657704
+                    ],
+                    [
+                        109.2200661,
+                        13.7656193
+                    ],
+                    [
+                        109.2200513,
+                        13.7644887
+                    ],
+                    [
+                        109.2200493,
+                        13.7643682
+                    ],
+                    [
+                        109.2200542,
+                        13.7642478
+                    ],
+                    [
+                        109.2200661,
+                        13.7641278
+                    ],
+                    [
+                        109.2200828,
+                        13.76402
+                    ],
+                    [
+                        109.2201052,
+                        13.7639131
+                    ],
+                    [
+                        109.2201331,
+                        13.7638074
+                    ],
+                    [
+                        109.2204067,
+                        13.7630779
+                    ],
+                    [
+                        109.2204433,
+                        13.7629649
+                    ],
+                    [
+                        109.2204755,
+                        13.7628507
+                    ],
+                    [
+                        109.2205033,
+                        13.7627354
+                    ],
+                    [
+                        109.2205317,
+                        13.7625901
+                    ],
+                    [
+                        109.2205532,
+                        13.7624436
+                    ],
+                    [
+                        109.2205676,
+                        13.7622964
+                    ],
+                    [
+                        109.2206199,
+                        13.7611032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13575063122",
+            "properties": {
+                "timestamp": "2026-02-18T06:32:10Z",
+                "version": "1",
+                "changeset": "178709897",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "3",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Trần Thị Kỷ",
+                "addr:subdistrict": "Ngô Mây",
+                "amenity": "restaurant",
+                "diet:vegan": "yes",
+                "name": "Cơm Chay Hiển Nam",
+                "opening_hours": "Mo-Su 06:00-19:30",
+                "phone": "+842562211148",
+                "id": "node/13575063122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.2201284,
+                    13.7682885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13575063124",
+            "properties": {
+                "timestamp": "2026-02-18T06:32:10Z",
+                "version": "1",
+                "changeset": "178709897",
+                "user": "KhanhxHoang",
+                "uid": "23838791",
+                "addr:city": "Quy Nhơn",
+                "addr:district": "Thành phố Quy Nhơn",
+                "addr:housenumber": "168",
+                "addr:postcode": "55111",
+                "addr:province": "Tỉnh Bình Định",
+                "addr:street": "Diên Hồng",
+                "addr:subdistrict": "Ngô Mây",
+                "amenity": "cafe",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "name": "Trà Tháng 4",
+                "id": "node/13575063124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.2203594,
+                    13.7682482
+                ]
+            }
+        }
+    ]
+}

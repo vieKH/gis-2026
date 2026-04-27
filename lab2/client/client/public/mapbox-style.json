@@ -1,0 +1,44 @@
+{
+  "version": 8,
+  "name": "overture-source-type-style",
+  "sources": {
+    "overture": {
+      "type": "geojson",
+      "data": "/overture.geojson"
+    }
+  },
+  "layers": [
+    {
+      "id": "overture-fill",
+      "type": "fill",
+      "source": "overture",
+      "paint": {
+        "fill-color": [
+          "match",
+          ["get", "source_type"],
+          "my", "#2ecc71",
+          "osm", "#3498db",
+          "ml", "#e67e22",
+          "#999999"
+        ],
+        "fill-opacity": 0.6
+      }
+    },
+    {
+      "id": "overture-outline",
+      "type": "line",
+      "source": "overture",
+      "paint": {
+        "line-color": [
+          "match",
+          ["get", "source_type"],
+          "my", "#1e8449",
+          "osm", "#1f618d",
+          "ml", "#ba4a00",
+          "#444444"
+        ],
+        "line-width": 1
+      }
+    }
+  ]
+}
